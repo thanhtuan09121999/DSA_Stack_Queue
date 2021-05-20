@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2043761-d139-4033-aa38-79f234a4c05e" name="Default Changelist" comment="" />
+    <list default="true" id="c2043761-d139-4033-aa38-79f234a4c05e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Bài 2/src/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 2/src/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 2/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài chị Châu giao/src/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bài chị Châu giao/src/SinhVien.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1smaG1EEdz8xIB9FTI0My03UTm5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />

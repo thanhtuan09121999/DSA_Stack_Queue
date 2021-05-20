@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bài 1/Bài 1.iml" filepath="$PROJECT_DIR$/Bài 1/Bài 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bài 2/Bài 2.iml" filepath="$PROJECT_DIR$/Bài 2/Bài 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bài chị Châu giao/Bài chị Châu giao.iml" filepath="$PROJECT_DIR$/Bài chị Châu giao/Bài chị Châu giao.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-stack-queue.iml" filepath="$PROJECT_DIR$/DSA-stack-queue.iml" />
     </modules>

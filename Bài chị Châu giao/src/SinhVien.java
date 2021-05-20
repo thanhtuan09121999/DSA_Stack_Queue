@@ -44,7 +44,7 @@ public class SinhVien {
                 ", address='" + address + '\'' +
                 '}';
     }
-    public int compareTo(SinhVien o){
-        return this.getAge()-o.getAge();
-    }
+//    public int compareTo(SinhVien o){
+//        return this.getAge()-o.getAge();
+//    }
 }
